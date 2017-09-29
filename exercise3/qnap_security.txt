@@ -1,0 +1,3 @@
+	QNAP Security, headquartered in Taiwan,	is	the world's first Linux-embedded 
+NVR developer that has leveraged its award-winning storage and RAID technologies	 
+to offer the reliable and high performance NVR.
